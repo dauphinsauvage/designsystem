@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h1 {
+    font-size: 2.5rem;
+}
+
+.h2 {
+    font-size: 2rem;
+}
+.h3 {
+    font-size: 1.75rem;
+}
+.h4 {
+    font-size: 1.5rem;
+}
+.h5 {
+    font-size: 1.25rem;
+}
+
+.h6 {
+    font-size: 1rem;
+}
+
+.btn {
+    font-size: 1rem;
+}
+
+.btn-small {
+    font-size: .875rem!important;
+}
+
+.btn-large {
+    font-size: 1.25rem!important;
+}
+
+.leading {
+    font-size: 1.5rem;
+}
+
+table, tr, td, th {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+
+.container {
+    max-width: min(100%, 900px);
+}
